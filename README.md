@@ -17,6 +17,10 @@ This project analyzes Ferrero Rocher sales data using Python, SQL Server, and Po
 - Microsoft Excel
 
 ---
+## Power Bi Dashborad Preview
+
+<img width="1917" height="1021" alt="Screenshot 2026-07-17 135418" src="https://github.com/user-attachments/assets/dbcad3fe-6554-4db5-83e2-6867db35bc22" />
+
 
 ## 📂 Project Workflow
 
